@@ -1,0 +1,19 @@
+body{
+    background: rgb(109, 109, 46);
+}
+.container{
+    margin-top: 250px;
+    margin-left: 450px;
+    border: 5px solid black;
+    border-radius: 8px;
+    height: 100px;
+    width: 300px;
+    padding: 20px;
+    background-color: rgb(212, 212, 157);
+}
+.container h1{
+    padding: 9px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(90, 62, 116);
+
+}
